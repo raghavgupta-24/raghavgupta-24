@@ -1,9 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=RAGHAV%20GUPTA&fontSize=42&fontColor=f5e6d3&fontAlignY=42&desc=backend%20/%20python%20/%20building%20quietly&descAlignY=62&descAlign=50&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1512&height=170&section=header&animation=fadeIn" />
 
-<img src="https://komarev.com/ghpvc/?username=raghavgupta-24&label=views&color=f5c6d6&style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/github/followers/raghavgupta-24?label=followers&style=for-the-badge&color=c9e4de&labelColor=0d0d0d" />
+<h1>RAGHAV GUPTA</h1>
+
+<a href="https://github.com/raghavgupta-24">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=D9A29B&center=true&vCenter=true&width=440&lines=backend+developer;python+%2F+django+%2F+drf;building+quietly%2C+shipping+loudly" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=raghavgupta-24&label=views&color=1a1512&style=flat-square" />
 
 </div>
 
@@ -20,41 +27,23 @@
 
 ## stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-f5c6d6?style=for-the-badge&logo=python&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/JAVA-fdeec4?style=for-the-badge&logo=openjdk&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-c9e4de?style=for-the-badge&logo=javascript&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/SQL-dcd3e8?style=for-the-badge&logo=postgresql&logoColor=0d0d0d" />
-  <br/>
-  <img src="https://img.shields.io/badge/REACT-f5c6d6?style=for-the-badge&logo=react&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/HTML5-fdeec4?style=for-the-badge&logo=html5&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/CSS3-c9e4de?style=for-the-badge&logo=css3&logoColor=0d0d0d" />
-  <br/>
-  <img src="https://img.shields.io/badge/DJANGO-dcd3e8?style=for-the-badge&logo=django&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/DJANGO%20REST-f5c6d6?style=for-the-badge&logo=django&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-fdeec4?style=for-the-badge&logo=postgresql&logoColor=0d0d0d" />
-  <br/>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-c9e4de?style=for-the-badge&logo=scikitlearn&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/PANDAS-dcd3e8?style=for-the-badge&logo=pandas&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/GIT-f5c6d6?style=for-the-badge&logo=git&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/GITHUB-fdeec4?style=for-the-badge&logo=github&logoColor=0d0d0d" />
-</p>
+`python` `java` `javascript` `sql` &nbsp;·&nbsp; `react` `html5` `css3` &nbsp;·&nbsp; `django` `django rest` `postgresql` &nbsp;·&nbsp; `scikit-learn` `pandas` &nbsp;·&nbsp; `git` `github`
 
 <br/>
 
 ## stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavgupta-24&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c6d6&icon_color=c9e4de&text_color=e8e0d5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavgupta-24&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c6d6&text_color=e8e0d5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavgupta-24&show_icons=true&theme=transparent&hide_border=true&title_color=D9A29B&icon_color=D9A29B&text_color=e8e0d5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavgupta-24&layout=compact&theme=transparent&hide_border=true&title_color=D9A29B&text_color=e8e0d5" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raghavgupta-24&theme=dark&hide_border=true&background=0D0D0D&stroke=1a1a1a&ring=f5c6d6&fire=fdeec4&currStreakLabel=c9e4de" />
+  <img src="https://streak-stats.demolab.com/?user=raghavgupta-24&theme=transparent&hide_border=true&ring=D9A29B&fire=D9A29B&currStreakLabel=D9A29B&sideLabels=e8e0d5&currStreakNum=e8e0d5&sideNums=e8e0d5&dates=8a8a8a" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghavgupta-24&theme=gruvbox&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raghavgupta-24&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 <br/>
@@ -62,10 +51,10 @@
 ## contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raghavgupta-24/raghavgupta-24/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/raghavgupta-24/raghavgupta-24/output/snake.svg" />
 </p>
 
-<sub>*(needs a small one-time GitHub Actions setup — say the word and I'll write it)*</sub>
+<sub>*(uses the workflow file below — one-time setup, then auto-updates every 12h)*</sub>
 
 <br/>
 
@@ -80,11 +69,7 @@
 
 ## elsewhere
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raghav-gupta-b25036369"><img src="https://img.shields.io/badge/LINKEDIN-f5c6d6?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" /></a>
-  <a href="mailto:helloraghavgupta.24@gmail.com"><img src="https://img.shields.io/badge/MAIL-fdeec4?style=for-the-badge&logo=gmail&logoColor=0d0d0d" /></a>
-  <a href="https://www.behance.net/raghavgupta34"><img src="https://img.shields.io/badge/BEHANCE-c9e4de?style=for-the-badge&logo=behance&logoColor=0d0d0d" /></a>
-</p>
+[`linkedin`](https://www.linkedin.com/in/raghav-gupta-b25036369) &nbsp;·&nbsp; [`mail`](mailto:helloraghavgupta.24@gmail.com) &nbsp;·&nbsp; [`behance`](https://www.behance.net/raghavgupta34)
 
 <br/>
 
