@@ -33,7 +33,9 @@
 <img src="https://raw.githubusercontent.com/raghavgupta-24/raghavgupta-24/main/divider.svg" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavgupta-24&show_icons=true&theme=transparent&hide_border=true&title_color=66FF99&icon_color=66FF99&text_color=EDEAE3&text_bold=false&v=2" />
+  <img src="https://img.shields.io/github/followers/raghavgupta-24?label=followers&style=for-the-badge&color=050705&labelColor=66FF99" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/raghavgupta-24&label=public%20repos&query=public_repos&style=for-the-badge&color=050705&labelColor=66FF99" />
+  <img src="https://img.shields.io/github/stars/raghavgupta-24?affiliations=OWNER&style=for-the-badge&color=050705&labelColor=66FF99" />
 </p>
 
 <br/>
